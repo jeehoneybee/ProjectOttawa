@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major"> 
+        <item>Architectural Studies</item>
+        <item>Bachelor of Arts</item>
+        <item>Cognitive Science</item>
+        <item>Commerce (or Business)</item>
+        <item>Communication and Media Studies</item>
+        <item>Computer Science</item>
+        <item>Economics</item>
+        <item>Engineering</item>
+        <item>Global and International Studies</item>
+        <item>Health Sciences</item>
+        <item>Humanities (or Great Books)</item>
+        <item>Industrial Design</item>
+        <item>Information Technology</item>
+        <item>International Business(or BIB)</item>
+        <item>Journalism</item>
+        <item>Journalism and Humanities</item>
+        <item>Mathematics (or BMath)</item>
+        <item>Media Production and Design</item>
+        <item>Music (or BMus)</item>
+        <item>Public Affairs and Policy Management</item>
+        <item>Science</item>
+        <item>Social Work</item>
+
+    </string-array>
+</resources>
